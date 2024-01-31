@@ -31,30 +31,7 @@
 
 	<build>
 		<finalName>gamutkart</finalName>
-
-<plugins>
-<plugin>
-<groupId>org.jfrog.buildinfo</groupId>
-<artifactId>artifactory-maven-plugin</artifactId>
-<version>2.52.10</version>
-<executions>
-<execution>
-<id>build-info</id>
-<goals>
-<goal>publish</goal>
-</goals>
-<publisher>
-<contextUrl>https://fisdemo.jfrog.io</contextUrl>
-<username>jenkins</username>
-<password>Petclinic@123</password>
-<repoKey>libs-release-local</repoKey>
-<snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
-</publisher>
-</execution>
-</executions>
-</plugin>
-</plugins>
-</build>
+        </build>
 	
 </project>
 
