@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gamut Gurus Technologies - Exclusive DevOps & Cloud Learning Hub</title>
+<title>SLK Software - Exclusive DevOps & Cloud Learning Hub</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Gamut Gurus DevOps & Cloud Learning Platform</h1> 
-			<h4>Contact: +91-944897 1000 Email: info@gamutgurus.com</h4> 
+			<h1>SLK Softwares DevOps & Cloud Learning Platform</h1> 
+			<h4>Contact: +91-000000 0000 Email: info@slkgroup.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -40,6 +40,7 @@
 			</ul>
 			<div id="tabs-1">
 				<p>https://en.wikipedia.org/wiki/DevOps</p>
+                                <p>Reimagine Your Business with the Power of AI | SLK</p>
 				<p>DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.</p>
 				<p>From an academic perspective, Len Bass, Ingo Weber, and Liming Zhu — three computer science researchers from the CSIRO and the Software Engineering Institute — suggested defining DevOps as "a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality".</p>
 			</div>
@@ -101,7 +102,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2020 Gamut Gurus Technologies. All rights Reserved.</footer>
+		<footer>@ 2000 SLK Softwares. All rights Reserved.</footer>
 	</div>
 
 </body>
