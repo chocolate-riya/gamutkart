@@ -5,10 +5,12 @@
 replicaCount: 1
 
 image:
+  #repository: fisdemo.jfrog.io/docker-trial/gamutkart
   repository: chocky/gamutkart
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "29"
+  tag: "26"
+  #tag: "29"
 
 imagePullSecrets: []
 nameOverride: ""
