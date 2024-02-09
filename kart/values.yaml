@@ -9,7 +9,7 @@ image:
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   #tag: {{ .Values.artifactory.latestBuild }}
-  tag: ""
+  tag: "49"
 
 imagePullSecrets: 
 - name: jfrog
