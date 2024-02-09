@@ -8,7 +8,8 @@ image:
   repository: fisdemo.jfrog.io/docker-trial/gamutkart
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: {{ .Values.artifactory.latestBuild }}
+  #tag: {{ .Values.artifactory.latestBuild }}
+  tag: ""
 
 imagePullSecrets: 
 - name: jfrog
